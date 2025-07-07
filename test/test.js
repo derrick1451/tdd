@@ -1,5 +1,9 @@
 import { assert } from "chai";
 import multiply from "../multiply.js";
+
+// team member
+// 1. Okongo Derrick
+// 2. Namurema Brendah
 describe("making test for multiplicity", function () {
   it("multiplying two numbers", function () {
     assert.equal(multiply(1, 1), 1);
